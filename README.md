@@ -19,4 +19,4 @@ Your contributions are highly welcome! If you have additional resources, correct
 I would like to express my gratitude to the online data science community for sharing knowledge and resources.
 
 Thanks!
-Sohail
+<b>Sohail</b>
